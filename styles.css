@@ -3,8 +3,10 @@ body {
     background-color: #f0f0f0;
     text-align: center;
   }
-  header {
-    background-color: #4CAF50;
-    color: white;
-    padding: 1rem;
-  }
+
+
+header {
+background-color: darkslategray;
+color: white;
+padding: 1rem;
+}
